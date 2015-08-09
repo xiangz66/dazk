@@ -1,0 +1,14 @@
+{
+	"groups":[
+	{
+		"keys":"plist_json",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"plist_json",
+		"subkeys":"ball,ball-alive,bg,brick,plate",
+		"type":"sheet",
+		"url":"assets/plist.json"
+	}]
+}

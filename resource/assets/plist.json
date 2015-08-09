@@ -1,0 +1,6 @@
+{"file":"plist.png","frames":{
+"ball-alive":{"x":750,"y":23,"w":25,"h":25,"offX":0,"offY":0,"sourceW":25,"sourceH":25},
+"ball":{"x":723,"y":23,"w":25,"h":25,"offX":0,"offY":0,"sourceW":25,"sourceH":25},
+"bg":{"x":1,"y":1,"w":720,"h":1280,"offX":0,"offY":0,"sourceW":720,"sourceH":1280},
+"brick":{"x":825,"y":1,"w":60,"h":30,"offX":0,"offY":0,"sourceW":60,"sourceH":30},
+"plate":{"x":723,"y":1,"w":100,"h":20,"offX":0,"offY":0,"sourceW":100,"sourceH":20}}}

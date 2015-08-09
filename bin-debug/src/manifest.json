@@ -1,0 +1,10 @@
+[
+	"element/Ball.ts",
+	"element/Plate.ts",
+	"element/Global.ts",
+	"view/GamePanel.ts",
+	"LoadingUI.ts",
+	"view/ControlPanel.ts",
+	"view/StatusPanel.ts",
+	"Main.ts"
+]
