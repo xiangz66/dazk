@@ -22,4 +22,3 @@ var Ball = (function (_super) {
     return Ball;
 })(egret.Bitmap);
 Ball.prototype.__class__ = "Ball";
-//# sourceMappingURL=Ball.js.map

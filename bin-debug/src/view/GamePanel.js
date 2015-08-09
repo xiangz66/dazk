@@ -14,4 +14,3 @@ var GamePanel = (function (_super) {
     return GamePanel;
 })(egret.Sprite);
 GamePanel.prototype.__class__ = "GamePanel";
-//# sourceMappingURL=GamePanel.js.map
