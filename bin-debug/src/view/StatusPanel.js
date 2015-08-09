@@ -36,3 +36,4 @@ var StatusPanel = (function (_super) {
     return StatusPanel;
 })(egret.Sprite);
 StatusPanel.prototype.__class__ = "StatusPanel";
+//# sourceMappingURL=StatusPanel.js.map

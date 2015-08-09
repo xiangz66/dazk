@@ -14,9 +14,11 @@ var ControlPanel = (function (_super) {
         this.height = 160;
         this.touchEnabled = true;
         this.addEventListener(egret.TouchEvent.TOUCH_TAP, function (event) {
+            target._ball.shoot();
         }, this);
     }
     var __egretProto__ = ControlPanel.prototype;
     return ControlPanel;
 })(egret.Sprite);
 ControlPanel.prototype.__class__ = "ControlPanel";
+//# sourceMappingURL=ControlPanel.js.map

@@ -16,3 +16,4 @@ var Plate = (function (_super) {
     return Plate;
 })(egret.Bitmap);
 Plate.prototype.__class__ = "Plate";
+//# sourceMappingURL=Plate.js.map

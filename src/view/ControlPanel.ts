@@ -15,7 +15,7 @@ class ControlPanel extends egret.Sprite{
         
         this.touchEnabled = true;
         this.addEventListener(egret.TouchEvent.TOUCH_TAP, function(event) {
-           
+            target._ball.shoot();
         }, this);
         
         
